@@ -1,0 +1,13 @@
+{
+  "name": "myBot",
+  "version": "0.0.1",
+  "description": "Node app as Slack bot",
+  "main": "app.js",
+  "author": "mj",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "request": "2.56.x"
+  }
+}
