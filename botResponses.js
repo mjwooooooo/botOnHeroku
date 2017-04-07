@@ -6,5 +6,6 @@ module.exports = {
     pizza: 'http://www.pizzeriascotty.com/',
     tacos: 'http://belaircantina.com/',
     weather:'https://weather.com/weather/tenday/l/USWI0455:1:US',
+    moto: 'Truck yea!!',
     all:'Keywords:\nhello\nhi\ngreta\npizza\ntacos\nchurros\nweather'
 }
